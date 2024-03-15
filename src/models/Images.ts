@@ -1,5 +1,5 @@
 import { z } from 'zod';
-console.log(z)
+// console.log(z)
 
 const BasicImageSchema = z.object({
     page:z.number(),
